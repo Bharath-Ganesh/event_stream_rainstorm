@@ -1,0 +1,54 @@
+{
+    "introducer": {
+        "name": "VM1",
+        "address": "fa25-cs425-8201.cs.illinois.edu:9090",
+        "filepath": "logfiles/vm1.log"
+    },
+    "members": [
+        {
+            "name": "VM2",
+            "address": "fa25-cs425-8202.cs.illinois.edu:9091",
+            "filepath": "logfiles/vm2.log"
+        },
+        {
+            "name": "VM3",
+            "address": "fa25-cs425-8203.cs.illinois.edu:9092",
+            "filepath": "logfiles/vm3.log"
+        },
+        {
+            "name": "VM4",
+            "address": "fa25-cs425-8204.cs.illinois.edu:9093",
+            "filepath": "logfiles/vm4.log"
+        },
+        {
+            "name": "VM5",
+            "address": "fa25-cs425-8205.cs.illinois.edu:9094",
+            "filepath": "logfiles/vm5.log"
+        },
+        {
+            "name": "VM6",
+            "address": "fa25-cs425-8206.cs.illinois.edu:9095",
+            "filepath": "logfiles/vm6.log"
+        },
+        {
+            "name": "VM7",
+            "address": "fa25-cs425-8207.cs.illinois.edu:9096",
+            "filepath": "logfiles/vm7.log"
+        },
+        {
+            "name": "VM8",
+            "address": "fa25-cs425-8208.cs.illinois.edu:9097",
+            "filepath": "logfiles/vm8.log"
+        },
+        {
+            "name": "VM9",
+            "address": "fa25-cs425-8209.cs.illinois.edu:9098",
+            "filepath": "logfiles/vm9.log"
+        },
+        {
+            "name": "VM10",
+            "address": "fa25-cs425-8210.cs.illinois.edu:9099",
+            "filepath": "logfiles/vm10.log"
+        }
+    ]
+}
