@@ -1,7 +1,4 @@
 # MP4 Stream Processing
-Team Members:
-- bganesh2
-- yonghan4
 
 ## Go into root directory
 ```bash
